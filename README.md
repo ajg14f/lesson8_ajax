@@ -4,21 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/10/18
 
 ### Student Name:  
-(First and Last Name)
+Alvaro Gonzalez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This is an application that will provide movie information using a search feature
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1.I learned that ajax can be used to perform an http request
+2.I learned how to use jquery to retrieve the language from the movie database
+3.I learned how ot implement an API key
