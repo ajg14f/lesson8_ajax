@@ -13,7 +13,7 @@ Alvaro Gonzalez
 This is an application that will provide movie information using a search feature
 
 ### View Project:
-
+ https://ajg14f.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1.I learned that ajax can be used to perform an http request
